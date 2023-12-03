@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Argentinian Mate - Biscuits</name>
+	<author>Argón</author>
+	<supportedVersions><li>1.1</li><li>1.2</li></supportedVersions>
+	<packageId>Argon.ArgMate.Biscuits</packageId>
+	<description>
+	Add-on for the Mate mod, it includes a single well recogniced in Argentina biscuits, those are for fun (no realism intended).
+	</description>
+</ModMetaData>
